@@ -1,0 +1,62 @@
+Hospital Honeypot Community Edition — Binary License Agreement
+
+Copyright (c) 2026 ThreatSpire LLC. All rights reserved.
+
+This agreement covers the Hospital Honeypot Community Edition software
+distributed in binary form (the "Software"), including the honeypot executable,
+the bundled web console, and the accompanying install scripts and
+documentation. By downloading, installing or using the Software you agree to
+these terms.
+
+1. Grant. ThreatSpire LLC ("ThreatSpire") grants you a free, non-exclusive,
+   non-transferable, revocable license to download, install and run the Software
+   on systems you own or control, for personal, internal business or research use.
+
+2. Redistribution. You may redistribute the Software only in its original,
+   unmodified form: the complete release archives exactly as published by
+   ThreatSpire, together with this license file and the accompanying
+   SHA256SUMS and signature files. You may not charge for the Software or bundle
+   it into a product or service you sell.
+
+3. Restrictions. Except as expressly permitted above or by applicable law that
+   cannot be waived by agreement, you may not: (a) modify, adapt or create
+   derivative works of the Software; (b) decompile, disassemble or otherwise
+   attempt to derive the source code of the Software; (c) remove or alter any
+   copyright, license or attribution notice; (d) use the Software or its
+   reporting channel to interfere with, overload or gain unauthorized access to
+   ThreatSpire's services; or (e) misrepresent modified software as ThreatSpire's.
+
+4. Data reporting. The Community Edition is designed to report observed attacker
+   activity (for example source IP addresses, sensor, timestamps, captured
+   payload excerpts and other indicators of compromise) to the ThreatSpire community
+   endpoint. You are responsible for deploying the Software lawfully, for the
+   network and legal environment it runs in, and for having the right to share the
+   reported data. ThreatSpire may use, aggregate and publish the reported data as
+   threat intelligence.
+
+5. Ownership. The Software is licensed, not sold. ThreatSpire and its licensors
+   retain all right, title and interest in it. All rights not expressly granted
+   are reserved. Open-source components included in the Software remain under
+   their own licenses.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTY THAT IT IS SECURE OR ERROR-FREE.
+   A honeypot intentionally exposes services to hostile traffic; you deploy it at
+   your own risk.
+
+7. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THREATSPIRE
+   WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
+   PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS OR BUSINESS, ARISING OUT OF OR
+   RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THEIR POSSIBILITY. THREATSPIRE'S
+   TOTAL LIABILITY FOR ANY CLAIM WILL NOT EXCEED USD $100.
+
+8. Termination. This license ends automatically if you breach it. ThreatSpire may
+   also terminate it on notice. On termination you must stop using and delete the
+   Software. Sections 3 through 8 survive termination.
+
+9. General. If any provision is unenforceable, the rest remains in effect. This
+   agreement is the entire agreement about the Software and may be updated by
+   ThreatSpire for future releases.
+
+Contact: releases@threatspire.com
